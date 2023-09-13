@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;k3owUCwL#hqCAFUmzC9mTkrcRGPtfbKrVfnVQeckpu6Z9gOBbM7E' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = ''
@@ -23,7 +23,7 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94717248357'
 
 global.OWNER_NAME = 'Janiya_X'
 
@@ -31,7 +31,7 @@ global.TIMEZONE = 'Asia/Colombo'
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -41,11 +41,11 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'SHAVINDU BY QUEEN Nilu'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@shaviya 🤹‍♂️' //sticker
 
 global.FOOTER = 'Queen Nilu 2023 '
 
